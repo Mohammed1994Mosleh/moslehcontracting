@@ -1,0 +1,65 @@
+body{
+  margin: 0%;
+  background-color: #87a7b3
+}
+
+header{
+  background-color: #ffdf6b;
+  color:#3b14a7;
+  height: 220px;
+}
+
+header nav {
+  float: right;
+  padding: 50px;
+    width: 20%;
+
+ 
+}
+
+header div {
+  float: left;
+}
+header nav ul li {
+  display: inline-block;
+  
+
+}
+header nav ul  {
+  
+  padding: px;
+
+}
+
+header nav ul li a{
+ text-decoration: none;
+
+ 
+}
+
+
+
+
+.moh5 { display: inline-block ;
+margin-left: 10px;
+
+}
+#moh7{width: 100%;
+
+}
+
+footer{text-align: center;
+
+
+}
+main h3{margin-top:50px;
+
+}
+#moh p{color:#02475e
+
+
+}
+#moh6{color: #f4eee8
+
+}
+
