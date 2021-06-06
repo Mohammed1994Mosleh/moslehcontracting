@@ -1,4 +1,4 @@
-var a=prompt("are you guest or employee")
+nvar a=prompt("are you guest or employee")
 while(!(a=="guest"||a=="employee")){
 a=prompt("are you guest or employee")
 
@@ -14,7 +14,7 @@ alert("sign in with your username and password")
 }else { alert("welcome")
 
 }
-document.write("<p>Mosleh Contracting</p>")
+document.write("<p>"+a+"</p>")
 var b=prompt("how many child do you have?")
 var i=0;
 for(var i=0;i<b;i++){
